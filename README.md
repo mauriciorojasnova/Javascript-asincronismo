@@ -14,6 +14,8 @@ Las promesas son fácil de enlazar para obtener más llamadas, lo cual supera la
 
 Async y await es el método más fácil de comprender debido a su sencilla sintaxis. Sin embargo, el tiempo de espera puede ser largo. También necesita de un polyfill para que funcione en navegadores antiguos.
 
+Nota: Toda la información fue tomada de el [Curso de Asincronismo con Javascript](https://platzi.com/cursos/asincronismo-js/) de Platzi.
+
 
 
 
